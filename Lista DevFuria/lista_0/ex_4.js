@@ -1,6 +1,6 @@
 let num;
-let sucessor, antecessor;
+let successor, previous;
 
 num = 1;
-sucessor = num+1;
-antecessor = num-1;
+successor = num+1;
+previous = num-1;

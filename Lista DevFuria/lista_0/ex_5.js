@@ -1,4 +1,4 @@
-let valor1, valor2, valor3;
-let media;
+let value1, value2, value3;
+let average;
 
-media = (valor1+valor2+valor3)/3;
+average = (value1+value2+value3)/3;

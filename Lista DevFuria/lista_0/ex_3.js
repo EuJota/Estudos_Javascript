@@ -1,4 +1,4 @@
-let lado;
-let areaQuadrado;
+let side;
+let squareArea;
 
-areaQuadrado = lado*lado;
+squareArea = side*side;
