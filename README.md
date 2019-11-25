@@ -1,2 +1,2 @@
 # Estudos_Javascript
-Estudos javascript do básico até onde for indo
+Estudando javascript partindo do nível básico com o objetivo de aprender a linguagem para backend.
